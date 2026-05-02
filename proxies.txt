@@ -230,7 +230,6 @@ https://t.me/proxy?server=93.95.115.244&amp;port=70&amp;secret=1320PuNyHw_LQKT_Y
 https://t.me/proxy?server=93.95.115.245&amp;port=70&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
 https://t.me/proxy?server=93.95.115.246&amp;port=70&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
 https://t.me/proxy?server=94.130.179.126&port=4153&secret=7sKpIlcHLUV_0JJ-J-WT6admaWRpYm8uY29t
-https://t.me/proxy?server=94.159.106.120&port=443&secret=ee094c74b28fa0195c624b646de6a9f04f7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=95.169.173.241&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
 https://t.me/proxy?server=95.169.173.241&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=95.169.173.248&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
@@ -276,6 +275,7 @@ https://t.me/proxy?server=War77.KingPoroxy.dynu.com&port=8080&secret=00000000000
 https://t.me/proxy?server=Yo.Fire.dynu.com&port=8080&secret=00000000000000000000000000000000
 https://t.me/proxy?server=ader.dynoporo.com&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=ader.dynoporo.com&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=akenai.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
 https://t.me/proxy?server=akgov.tgproxy.network&port=8443&secret=726564736869656c6476706e2e636f6d
 https://t.me/proxy?server=aperitifs.Koncinio.nicname.com.gmail.com.stockholm-countri.city&amp;port=443&amp;secret=3TK5IN_7UWQwKOL2uHjU6sE
 https://t.me/proxy?server=australite.microsoft.com.bingo.com.iranserver.com.tsetmc.tsetmc--com.tk&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sF3MS53ZWIud2hhdHNhcHAuY29t
@@ -402,7 +402,6 @@ tg://proxy?server=167.235.54.151&port=543&secret=ee550fbe912b27753fa54a23c73ba80
 tg://proxy?server=168.119.249.195&port=4353&secret=7sKpIlcHLUV_0JJ-J-WT6adwbGF5Lmdvb2dsZS5jb20=
 tg://proxy?server=194.15.196.2&port=443&secret=d9627a790397d3c4615ca0bdaf211c8a
 tg://proxy?server=2.27.41.207&port=443&secret=7i7m9mm-RJwxcrTN_vCqxBtyZXBsYXlleWUuY29t
-tg://proxy?server=2.27.59.225&port=443&secret=eebe232d8569992025370b3fd21684a9576c696e6b2e6d61782e7275
 tg://proxy?server=38.244.194.129&port=443&secret=ee105b4c7698aedbb55f291968ad2439d4647a656e2e7275
 tg://proxy?server=45.82.65.142&port=443&secret=a7c17e9a495ef47028c1c57f4c4a9d5e
 tg://proxy?server=49.12.188.15&port=1443&secret=7lUPvpErJ3U_pUojxzuoBjRkb2NrZXItcHVibGljLWxvY2FsLnJlcG9zLmJhbGFkLmly
