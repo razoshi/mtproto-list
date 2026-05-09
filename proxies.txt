@@ -288,6 +288,7 @@ https://t.me/proxy?server=khoda.hafez.info&port=443&secret=ee1603010200010001fc0
 https://t.me/proxy?server=kria.insnap.bond&port=443&secret=ee18334bdde7b4c5006c3930465654dc246b7269612e696e736e61702e626f6e64
 https://t.me/proxy?server=lovevesper.zoryx.tech&port=853&secret=ee2a43151ca1c75d56a2f8f63c87bfaae374726176656c6c696e652e7275
 https://t.me/proxy?server=mix.road-digger.info&port=61016&secret=79e7010200010007f0030386e24c3add
+https://t.me/proxy?server=mtp.fsoc-app.online&amp;port=853&amp;secret=ee1d49946a9bd11022149e2c68f1d75f6774656c2e66736f632d6170702e6f6e6c696e65
 https://t.me/proxy?server=mtp.fsoc-app.online&port=853&secret=ee1d49946a9bd11022149e2c68f1d75f6774656c2e66736f632d6170702e6f6e6c696e65
 https://t.me/proxy?server=mtp.yard-tg-bot.ru&port=443&secret=eef658bb6d89b284874149c13e7d27d9da79616e6465782e7275
 https://t.me/proxy?server=musbest.space&amp;port=443&amp;secret=eecaca160442c8a4af24c6d96b04337d656d6f647363656e7465722e6f7267&amp;bot=@mtpro_xyz_bot&amp;channel=@mtpro_xyz
