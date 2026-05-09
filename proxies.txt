@@ -73,6 +73,7 @@ https://t.me/proxy?server=185.222.28.5&amp;port=8443&amp;secret=1320PuNyHw_LQKT_
 https://t.me/proxy?server=185.222.28.66&amp;port=23&amp;secret=1320PuNyHw_LQKT_Y7XNJw==
 https://t.me/proxy?server=185.222.28.83&amp;port=23&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=185.222.28.90&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
 https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D
@@ -120,6 +121,7 @@ https://t.me/proxy?server=3.meli.meli.zban-mas.info&amp;port=8888&amp;secret=7gA
 https://t.me/proxy?server=3.meli.zban-mas.info&amp;port=8888&amp;secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
 https://t.me/proxy?server=31.172.78.103&amp;port=443&amp;secret=ee7362657262616e6b2e727522ad9304&amp;bot=@mtpro_xyz_bot&amp;channel=@mtpro_xyz
 https://t.me/proxy?server=31.172.78.103&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
+https://t.me/proxy?server=31.47.51.111&amp;port=80&amp;secret=0feeb488ea1f4a9b741a145bc00d3004
 https://t.me/proxy?server=37.152.187.1&port=16928&ref_secret-share=@mtprotoproxies&secret=eead74247e6b60212fe3545bc0d2781ee67777772e676f6f6764652e636f6f
 https://t.me/proxy?server=37.202.248.120&port=80&secret=0feeb488ea1f4a9b741a145bc00d3004
 https://t.me/proxy?server=37.32.31.16&port=1676&secret=eea860fe7be5ac23549fe2260a3f0d3f057777772e676f6f676c652e636f6d
