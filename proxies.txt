@@ -287,7 +287,6 @@ https://t.me/proxy?server=kria.snappytuppy.icu&amp;port=443&amp;secret=ee18334bd
 https://t.me/proxy?server=kria.snappytuppy.icu&port=443&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=kria1.snappytuppy.icu&port=443&secret=ee18334bdde7b4c5006c3930465654dc246b7269612e736e6170707974757070792e696375
 https://t.me/proxy?server=mix.road-digger.info&port=61016&secret=79e7010200010007f0030386e24c3add
-https://t.me/proxy?server=mt.shifor.live&amp;port=443&amp;secret=eee1de11495a1f99a91c4ee0c863252b586d742e736869666f722e6c697665
 https://t.me/proxy?server=mtp.r2d2vpn.com&amp;port=1366&amp;secret=eea077b0b9f73b508f2bc5c4ce301a8310626c696e64637265772e7275&amp;bot=@mtpro_xyz_bot&amp;channel=@mtpro_xyz
 https://t.me/proxy?server=mtp.r2d2vpn.com&port=1366&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
 https://t.me/proxy?server=my.irancell.ir.cityoflovers.cyou.&amp;port=443&amp;secret=EECF09E5861586F39DAFE5AA1F2FF9F205636F64652E676F6F676C652E636F6D
