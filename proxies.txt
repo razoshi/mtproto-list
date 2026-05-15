@@ -305,6 +305,7 @@ https://t.me/proxy?server=pushed.microsoft.com.bingo.com.iranserver.com.tsetmc.t
 https://t.me/proxy?server=py.road-digger.info&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=quickrouteapp.xyz&port=443&secret=ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a
 https://t.me/proxy?server=r1.newr1.co.uk&port=85&secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D
+https://t.me/proxy?server=reboot.tikla.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=reboot.tikla.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=resourcebased-buying-an-airplane.lmusicl.ir.&amp;port=9741&amp;secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=ru.world.mambabot.net&amp;port=443&amp;secret=eea6584be1343deacba4a58766217e31b7786170692e6f7a6f6e2e7275&amp;bot=@mtpro_xyz_bot&amp;channel=@mtpro_xyz
