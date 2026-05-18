@@ -25,6 +25,7 @@ https://t.me/proxy?server=136.243.226.254&amp;port=443&amp;secret=7hYDAQIAAQAB_A
 https://t.me/proxy?server=136.243.228.9&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
 https://t.me/proxy?server=138.201.23.21&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
 https://t.me/proxy?server=138.201.50.40&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
+https://t.me/proxy?server=144.31.221.15&port=443&secret=1d704dc7fbf37924bc72f016a8f91b0d
 https://t.me/proxy?server=144.31.221.15&port=443&secret=bfb063cc6d861de10f6a39c795fc66e4
 https://t.me/proxy?server=144.31.221.15&port=443&secret=ea0d12da766348efd261ca88728c8b83
 https://t.me/proxy?server=146.103.104.178&amp;port=8888&amp;secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t
@@ -178,6 +179,7 @@ https://t.me/proxy?server=91.217.166.80&amp;port=443&amp;secret=7hYDAQIAAQAB_AMD
 https://t.me/proxy?server=91.217.166.82&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t
 https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=91.239.192.172&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=91.239.192.173&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=91.239.192.175&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=91.245.220.9&amp;port=8443&amp;secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D
@@ -261,7 +263,6 @@ https://t.me/proxy?server=cdn.gamelande.info&port=88&secret=7nnnAQIAAQAH8AMDhuJM
 https://t.me/proxy?server=clianthus.Koncinio.nicname.com.gmail.com.stockholm-countri.city&amp;port=443&amp;secret=3TK5IN_7UWQwKOL2uHjU6sE
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.soft--7000-ir.mylftv.com.&port=1080&secret=7gAAAAAAAAAAAAAAAAAAAABzbGFjay5jb20%3D
 https://t.me/proxy?server=collider.web-yektanet-com.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D
-https://t.me/proxy?server=connect.tproxyru.click&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 https://t.me/proxy?server=connect.tproxyru.live&port=8980&secret=ee104462821249bd7ac519130220c25d09617669746f2e7275
 https://t.me/proxy?server=coquetries.Koncinio.nicname.com.gmail.com.stockholm-countri.city&amp;port=443&amp;secret=3TK5IN_7UWQwKOL2uHjU6sE
 https://t.me/proxy?server=dealer4-fin.dealer.ac&port=8443&secret=ee602b25b6e94c83ec0e24fbbc83c8bc547477656e7475722e636f6d
